@@ -14,6 +14,7 @@ h1 {
   padding: 20px;
   border-radius: 25px;
   margin: auto;
+  text-align: center;
 }
 
 input {
@@ -32,4 +33,9 @@ input {
 
 .mark {
   background-color: yellow;
+}
+
+footer {
+  margin-top: 15px;
+  font-size: 15px;
 }
